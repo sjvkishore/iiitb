@@ -9,3 +9,9 @@ Q2: Moving Average
 Build the Simple Auto Regressive method in the above-given Sales dataset. Make the series Stationary (take lambda = 0 in the Box-Cox Transformation and 1 lag in differencing) to answer the following questions.
 
 What is the MAPE value for MA(3)? Use the first 60 rows as train data.
+
+
+Q3: ARMA
+Implement the Auto Regressive Moving Average method after making the series stationary (take lambda = 0 in the Box-Cox Transformation and 1 lag in differencing) to answer the following questions.
+
+What is the MAPE value for ARMA(4, 3)? Use the first 60 rows as train data.

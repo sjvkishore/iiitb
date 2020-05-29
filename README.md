@@ -1,2 +1,2 @@
 # iiitb
-As part of course practiced ML models
+As part of course, practiced ML model solution pynbs.

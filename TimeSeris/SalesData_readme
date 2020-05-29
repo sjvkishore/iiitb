@@ -1,0 +1,11 @@
+As part of this exercise I have Implemented the Simple Auto Regressive model and Moving Average model after making the series Stationary (take lambda = 0 in the Box-Cox Transformation and 1 lag of differencing)  
+
+Simple Auto Regressive:
+Q1:  Build the Simple Auto Regressive method in the above-given Sales dataset. Make the series stationary (take lambda = 0 in the Box-Cox Transformation and 1 lag in differencing) to answer the following questions.
+
+What is the MAPE value for AR(8)? Use the first 60 rows as train data.
+
+Q2: Moving Average
+Build the Simple Auto Regressive method in the above-given Sales dataset. Make the series Stationary (take lambda = 0 in the Box-Cox Transformation and 1 lag in differencing) to answer the following questions.
+
+What is the MAPE value for MA(3)? Use the first 60 rows as train data.
